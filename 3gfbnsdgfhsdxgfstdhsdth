@@ -4,7 +4,7 @@ local Notify = AkaliNotif.Notify;
 wait(1);
 
 Notify({
-  Description = "blacklisted bis: 31/12/6969";
-  Title = "Grund: kannst dich bei mir entschuldigen";
+  Description = "blacklisted bis: 31/12/696969696969";
+  Title = "hast mich Gebissen scheiß nigga";
   Duration = 898837377373828282919292377;
 });
